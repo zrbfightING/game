@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "agent-browser": "^0.23.4",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "katago": "node server/server-katago.js"
+  }
+}
